@@ -1,4 +1,4 @@
-# Attack Prediction in IoT Devices (Using ML MOdels)
+# Attack Prediction in IoT Devices (Using ML Models)
 # IoT Attack Prediction
 
 This repository contains the code and data for building a machine learning model to predict SHA, DFA, SFA, SYA, and VNA attacks on IoT devices. The model is trained using raw data obtained from simulations conducted with the Contiki Cooja IoT simulator.
